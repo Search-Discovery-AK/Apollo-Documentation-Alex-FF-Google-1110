@@ -1,2 +1,5 @@
 # Apollo-Documentation-Alex-FF-Google-1110
-An Apollo generated Event Driven Data Layer
+
+<p>GTM Property default note.</p>
+<p>&nbsp;</p>
+<p>2</p>
